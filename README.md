@@ -1,8 +1,13 @@
-<p align="center"><a href="https://github.com/cybersecurity-dev/awesome-rust-programming-language">
-  <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Rust_logo.svg" />
-</a></p>
+<div align="center">
+    <p align="center">
+        <a href="https://github.com/cybersecurity-dev/awesome-rust-programming-language">
+          <img width="13%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Rust_logo.svg" />
+        </a>
+    </p>
 
-# [Rust](https://github.com/cybersecurity-dev/awesome-rust-programming-language) Development Toolkit
+# **`Rust`** Development Toolkit
+</div>
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/cybersecurity-dev/Bash-Toolkit?tab=readme-ov-file#programming-language)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/cybersecurity-dev/PowerShell-Toolkit?tab=readme-ov-file#programming-language)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiWmlgC0RqrgFioJDYMSmApx&si=gv98pGliWulz8Zcb)
